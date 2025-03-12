@@ -1,0 +1,242 @@
+{ "frames": {
+   "Theo sprites 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 250
+   },
+   "Theo sprites 1.aseprite": {
+    "frame": { "x": 374, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 100
+   },
+   "Theo sprites 2.aseprite": {
+    "frame": { "x": 748, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 100
+   },
+   "Theo sprites 3.aseprite": {
+    "frame": { "x": 1122, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 100
+   },
+   "Theo sprites 4.aseprite": {
+    "frame": { "x": 1496, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 100
+   },
+   "Theo sprites 5.aseprite": {
+    "frame": { "x": 1870, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 80
+   },
+   "Theo sprites 6.aseprite": {
+    "frame": { "x": 2244, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 120
+   },
+   "Theo sprites 7.aseprite": {
+    "frame": { "x": 2618, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 80
+   },
+   "Theo sprites 8.aseprite": {
+    "frame": { "x": 2992, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 80
+   },
+   "Theo sprites 9.aseprite": {
+    "frame": { "x": 3366, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 80
+   },
+   "Theo sprites 10.aseprite": {
+    "frame": { "x": 3740, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 80
+   },
+   "Theo sprites 11.aseprite": {
+    "frame": { "x": 4114, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 150
+   },
+   "Theo sprites 12.aseprite": {
+    "frame": { "x": 4488, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 80
+   },
+   "Theo sprites 13.aseprite": {
+    "frame": { "x": 4862, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 80
+   },
+   "Theo sprites 14.aseprite": {
+    "frame": { "x": 5236, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 100
+   },
+   "Theo sprites 15.aseprite": {
+    "frame": { "x": 5610, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 100
+   },
+   "Theo sprites 16.aseprite": {
+    "frame": { "x": 5984, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 100
+   },
+   "Theo sprites 17.aseprite": {
+    "frame": { "x": 6358, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 100
+   },
+   "Theo sprites 18.aseprite": {
+    "frame": { "x": 6732, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 100
+   },
+   "Theo sprites 19.aseprite": {
+    "frame": { "x": 7106, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 100
+   },
+   "Theo sprites 20.aseprite": {
+    "frame": { "x": 7480, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 150
+   },
+   "Theo sprites 21.aseprite": {
+    "frame": { "x": 7854, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 80
+   },
+   "Theo sprites 22.aseprite": {
+    "frame": { "x": 8228, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 80
+   },
+   "Theo sprites 23.aseprite": {
+    "frame": { "x": 8602, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 150
+   },
+   "Theo sprites 24.aseprite": {
+    "frame": { "x": 8976, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 80
+   },
+   "Theo sprites 25.aseprite": {
+    "frame": { "x": 9350, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 80
+   },
+   "Theo sprites 26.aseprite": {
+    "frame": { "x": 9724, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 80
+   },
+   "Theo sprites 27.aseprite": {
+    "frame": { "x": 10098, "y": 0, "w": 374, "h": 666 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 374, "h": 666 },
+    "sourceSize": { "w": 374, "h": 666 },
+    "duration": 80
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.13-x64",
+  "image": "Theo_Sprite_Sheet_250311.png",
+  "format": "RGBA8888",
+  "size": { "w": 10472, "h": 666 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
